@@ -1,0 +1,19 @@
+.navbar{
+  flex-direction: column;
+}
+.menu ul{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.home-wrapper::before{
+  height: 100%;
+}
+.menu{
+  flex-direction: column;
+}
+.box{
+  margin: 8px 0px;
+}
+.about{
+  margin-top: 250px;
+}
